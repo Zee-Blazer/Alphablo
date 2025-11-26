@@ -111,3 +111,24 @@ header {
     background-color: #6941c617;
     color: #6941C6;
 }
+
+.trusted_text {
+    text-align: center;
+    margin-bottom: 32px;
+    color: #667085;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.partner {
+    margin-bottom: 96px;
+}
+
+.partner_img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.partner_img img {
+    max-height: 74px;
+}
